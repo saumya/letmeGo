@@ -1,6 +1,9 @@
 //
 // run this : go run 2.go
-// making a WebServer
+// Making a WebServer
+//
+// ex: http://localhost:9090/
+// ex: http://localhost:9090/?url_long=111&url_long=222
 //
 package main
 
